@@ -14,7 +14,7 @@ To generate stereo pair, place all the single images in the example folder, the 
 
 To train your own model, put the single images in the example folder, and the ground truth maps in the train_depth folder. run train.py, checkpoints will be saved in ckpt folder.
 
-
+------------------------------------
 
 Stereo-To-Depth can predict depth/disparity map from Stereo pairs. Run the following command for the basic checkpoint. Place 0_color.png in left folder, and MiDaS_0_color.png in right folder.
 
